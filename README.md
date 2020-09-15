@@ -22,7 +22,7 @@ Self Driving Car Using Covolutinal Neural Networks Via Using NVIDIA Model Archit
 Type the following commands in your terminal:
 ```bash
 cd path/to/directory/
-git clone https://github.com/Aman-py/Self_Driving_Car
+git clone https://github.com/jacksparrow6455/Self_Driving_Car
 cd Self_Driving_Car/
 ```
 
